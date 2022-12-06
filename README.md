@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danielle Araneta</h1>
-<h3 align="center">I am a Software Developer Intern from Canada!</h3>
+<h3 align="center">I am a Software Developer Intern @ C4S Manitoba </h3>
 
 - 🔭 The projects I am currently working on are: **Employee Time Sheet Dashboard (Web App), Google Maps API Private Trip Planner (Web App), CleanStack (Web App & Desktop App), InstantCata (OpenCV Desktop App)**
 
