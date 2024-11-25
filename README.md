@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danielle Araneta</h1>
-<h3 align="center">I am a AI-Developer from Winnipeg Manitoba</h3>
+<h3 align="center">I am a Machine Learning & Software Engineer from Winnipeg Manitoba</h3>
 
 - 🔭 I’m currently working on **"Fast-App" & "Let's Code," my series dedicated to developing AI-Powered Applications.**
 
