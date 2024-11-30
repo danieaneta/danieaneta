@@ -6,5 +6,3 @@
 - 📫 How to reach me **danieaneta@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQctkRZIbqzqF-p5yJb9n566MMqaqDgDfo8ogcAEmi-XrrhIegMMdtPN0wcJPsPZx8yWPKgJGH4c4gm/pub](https://docs.google.com/document/d/e/2PACX-1vQctkRZIbqzqF-p5yJb9n566MMqaqDgDfo8ogcAEmi-XrrhIegMMdtPN0wcJPsPZx8yWPKgJGH4c4gm/pub)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieaneta&show_icons=true&locale=en&layout=compact" alt="danieaneta" /></p>
