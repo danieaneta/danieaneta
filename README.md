@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danielle Araneta</h1>
 <h3 align="center">I am a Machine Learning & Software Developer from Winnipeg Manitoba</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/danieaneta]([https://github.com/danieaneta/repo](https://github.com/danieaneta?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/danieaneta]([https://github.com/danieaneta/repo](https://github.com/danieaneta?tab=repositories])
 
 - 📫 How to reach me **danieaneta@gmail.com**
 
