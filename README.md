@@ -5,4 +5,4 @@
 
 - 📫 How to reach me **danieaneta@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQctkRZIbqzqF-p5yJb9n566MMqaqDgDfo8ogcAEmi-XrrhIegMMdtPN0wcJPsPZx8yWPKgJGH4c4gm/pub](https://docs.google.com/document/d/e/2PACX-1vQctkRZIbqzqF-p5yJb9n566MMqaqDgDfo8ogcAEmi-XrrhIegMMdtPN0wcJPsPZx8yWPKgJGH4c4gm/pub)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1w-VuZs4fj9B0iTrK_hw_j3LIcYVrs72L/view?usp=sharing](https://drive.google.com/file/d/1w-VuZs4fj9B0iTrK_hw_j3LIcYVrs72L/view?usp=sharing)
