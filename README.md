@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danielle Araneta</h1>
-<h3 align="center">I am a Machine Learning & Software Developer from Winnipeg Manitoba</h3>
+<h3 align="center">I am an AI Engineer from Winnipeg Manitoba</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/danieaneta?tab=repositories](https://github.com/danieaneta?tab=repositories)
 
